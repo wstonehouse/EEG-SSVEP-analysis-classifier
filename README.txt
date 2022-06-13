@@ -17,4 +17,4 @@ MOABB requires the following libraries:
 mne numpy scipy scikit-learn matplotlib seaborn pandas pyriemann h5py
 
 Best,
-Will
+Will 
